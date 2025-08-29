@@ -84,3 +84,14 @@
     </td>
   </tr>
 </table>
+
+
+
+## 📬 Let's Connect
+
+- 📧 [harridoss.m@northeastern.edu](mailto:harridoss.m@northeastern.edu)
+- 💼 [LinkedIn](https://www.linkedin.com/in/manoj-h-6953b5247/)
+  
+<p align="center">
+⭐ I'm actively seeking opportunities to collaborate on new projects. Please feel free to explore my work and connect with me to discuss your ideas.
+</p>
