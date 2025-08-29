@@ -6,13 +6,13 @@
 
 <table>
   <tr>
-    <td align="center" width="96">
-    <img src="https://cdn.simpleicons.org/apachezookeeper/C71A01" width="48" height="48" alt="Zookeeper" />
-  <br>Zookeeper
+   <td align="center" width="96">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+  <br>C++
 </td>
 <td align="center" width="96">
-    <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="48" height="48" alt="AWS" />
-  <br>AWS
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+  <br>Python
 </td>
     <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" />
