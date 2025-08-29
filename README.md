@@ -1,97 +1,45 @@
-### I'm Manoj, a graduate Computer Science student at Northeastern University.
+<div align="center">
+  <h1> Hi there, I'm Manoj 👋 </h1>
+</div>
+
+<table>
+  <td valign="top" width="60%">
+
+### I'm a graduate Computer Science student at Northeastern University.
 
 - 👨‍💻 I'm passionate about building software and creating efficient, real-world solutions.
 - 🤖 I am particularly interested in improving AI by tackling challenges like model hallucination.
-## 🛠️ Favorite Technologies
 
-<table>
-  <tr>
-   <td align="center" width="96">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
-  <br>C++
-</td>
-<td align="center" width="96">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-  <br>Python
-</td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" />
-      <br>Redis
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" height="48" alt="Flask" />
-      <br>Flask
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="48" height="48" alt="Hadoop" />
-      <br>Hadoop
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="Numpy" />
-      <br>Numpy
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
-      <br>Pandas
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" />
-      <br>PyTorch
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" />
-      <br>TensorFlow
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="48" height="48" alt="Kubernetes" />
-      <br>Kubernetes
-    </td>
-     <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="48" height="48" alt="Kafka" />
-      <br>Kafka
-    </td>
-  </tr>
+<br>
+
+### 📫 Let's Connect
+<p align="left">
+  <a href="https://www.linkedin.com/in/manoj-h-6953b5247/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Manoj H LinkedIn"/></a>
+  <a href="mailto:harridoss.m@northeastern.edu" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Manoj H Email"/></a>
+</p>
+  </td>
+  <td valign="top" width="40%">
+
+![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manojh23&show_icons=true&theme=tokyonight&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manojh23&layout=compact&theme=tokyonight)
+
+  </td>
 </table>
 
+---
 
+### 💻 Tech Stack & Tools
 
-## 📬 Let's Connect
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,python,react,flask,redis,docker,kubernetes,kafka" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=git,linux,mongodb,mysql,postgresql,pytorch,tensorflow,numpy,pandas" />
+  </a>
+</p>
 
-- 📧 [harridoss.m@northeastern.edu](mailto:harridoss.m@northeastern.edu)
-- 💼 [LinkedIn](https://www.linkedin.com/in/manoj-h-6953b5247/)
-  
+---
+
 <p align="center">
 ⭐ I'm actively seeking opportunities to collaborate on new projects. Please feel free to explore my work and connect with me to discuss your ideas.
 </p>
