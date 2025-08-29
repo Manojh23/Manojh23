@@ -7,13 +7,13 @@
 <table>
   <tr>
     <td align="center" width="96">
-    <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="48" height="48" alt="AWS" />
-  <br>AWS
-    </td>
-    <td align="center" width="96">
     <img src="https://cdn.simpleicons.org/apachezookeeper/C71A01" width="48" height="48" alt="Zookeeper" />
   <br>Zookeeper
-   </td>
+</td>
+<td align="center" width="96">
+    <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="48" height="48" alt="AWS" />
+  <br>AWS
+</td>
     <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" />
       <br>Redis
